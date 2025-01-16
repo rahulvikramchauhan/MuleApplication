@@ -18,7 +18,7 @@ output application/json
 ---
 {
 	"success":200,
-	"message":"mule git flow is working............."
+	"message":"welcome to mule git flow ............."
 
 
 
