@@ -18,7 +18,10 @@ output application/json
 ---
 {
 	"success":200,
-	"message":"mule flow is working"
+	"message":"mule git flow is working"
+
+
+
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
